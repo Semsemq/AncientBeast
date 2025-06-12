@@ -23,7 +23,7 @@
 		"url": "https://ancientbeast.com/contribute/#donate"
 	},
 	"dependencies": {
-		"@heroiclabs/nakama-js": "^2.0.1",
+		"@heroiclabs/nakama-js": "^2.8.0",
 		"compression": "^1.7.4",
 		"express": "^4.17.3",
 		"jquery": "^3.5.0",
